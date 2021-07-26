@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,YACE,wBAA6B,CAC9B,cAGC,oBAAqB","file":"main.aa6101d8.chunk.css","sourcesContent":[".selectedEl {\r\n  background-color: greenyellow;\r\n}\r\n\r\n.unselectedEl {\r\n  background-color: red;\r\n}\r\n"]}
